@@ -1,3 +1,3 @@
 # marketing-weboldal
 
-Készült HTML, CSS segítségével
+Készült HTML, CSS, JSBin használatával
